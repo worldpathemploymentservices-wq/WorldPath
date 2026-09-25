@@ -1,0 +1,6 @@
+{
+  "name": "WorldPath Employment",
+  "description": "Legitimate employment opportunities, application guidance, and general information for working in the United States.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
